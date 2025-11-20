@@ -1,0 +1,17 @@
+title: "NavSon SMash"
+description: "Bienvenido a mi sitio de gaming"
+theme: jekyll-theme-primer
+baseurl: ""
+url: "https://navsonsmash.github.io"
+
+navbar:
+  - name: "Home"
+    link: "/"
+  - name: "Player List" 
+    link: "/playlist.html"
+
+markdown: kramdown
+permalink: pretty
+
+plugins:
+  - jekyll-feed
